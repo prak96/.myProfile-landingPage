@@ -15,7 +15,7 @@
     - <b>Insightscape (Optimizing Azure Resource Deployment with Backup & Monitoring)</b>
       - [Practicing data analysis, insights generation, and visualization using data-driven workflows](https://github.com/prak96/Insightscape.git) -->
 
-## 📘 Projects
+## 🎯 Projects
 
 ### Azure / DevOps Projects
 
@@ -31,17 +31,26 @@ Optimizing Azure resource deployment with backup, monitoring, and data-driven in
 
 <h2> 👨‍💻 Blogs </h2>
 
-- [Ops Unplugged](https://infrabytes.hashnode.dev/)
+- [Ops Unplugged](https://myspace233.hashnode.dev/)
+  - [Linux Space — Shell, Linux, Kernel & File Management](https://myspace233.hashnode.dev/series/shell-linux-kernel-filemgmt-os)
+  - [MyDevOpsSpace — DevOps Tasks](https://myspace233.hashnode.dev/series/devops-tasks)
+
 - [InfraBytes](https://infrabytes.hashnode.dev/)
+  - [VMware Area — vSphere Administration](https://infrabytes.hashnode.dev/series/vsphere-admin)
+  - [Mastering Intune Packages](https://infrabytes.hashnode.dev/series/sccm-series)
+  
 - [Azure Insights](https://azinsights.hashnode.dev/)
 - [AWS & More](https://myawsworkspace.hashnode.dev/)
-- [Azure Networking Blogs](https://azure-networking-blogs.hashnode.dev/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Pratul Patel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Pratul Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<a href="https://hashnode.com/@pratul233/">
+  <img align="left" alt="Hashnode" width="22px" src="https://cdn.simpleicons.org/hashnode/black" />
+</a>
 
 [twitter]: https://x.com/pratul233pa/
 [linkedin]: https://www.linkedin.com/in/pratulpatel/
+
